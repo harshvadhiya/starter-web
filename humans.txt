@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harsh writer harsh.ok
 
 # THANKS
 
