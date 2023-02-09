@@ -13,3 +13,6 @@ To learn things
 
 ## How to contribute
 You can't
+
+### copyright
+git training
