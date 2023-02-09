@@ -12,7 +12,7 @@ Deploy
 To learn things
 
 ## How to contribute
-You can't
+You can fork this repo
 
 ### copyright
 git training
